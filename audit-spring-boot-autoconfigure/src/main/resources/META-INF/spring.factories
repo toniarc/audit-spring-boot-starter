@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=br.gov.pa.prodepa.audit.autoconfigure.AuditAutoConfiguration
